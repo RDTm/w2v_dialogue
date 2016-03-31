@@ -1,0 +1,16 @@
+<!doctype html>
+<title>Hello from Flask</title>
+
+{% if list %}
+<ul>
+{% for item in list %}
+  <li>{{ item }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+<form method="post">
+  <label>Name:<input name="name" autofocus/></label>
+  <input type="submit" value="Send"/>
+  <input type="button" value="Clear" onclick="window.location='/'"/>
+</form>
