@@ -49,14 +49,6 @@ Hello	Hello
 Yo.	Hello
 Hey there, Brad.	Hello
 Hi, how are you?	Hi. I'm having a good day. And you?
-Can you say that again?	_please_repeat_that_repeat_
-Sorry, what was that?	_please_repeat_that_repeat_
-Pardon me?	_please_repeat_that_repeat_
-What was that?	_please_repeat_that_repeat_
-What did you say?	_please_repeat_that_repeat_
-Can you repeat what you just said?	_please_repeat_that_repeat_
-I didn't understand what you just said.	_please_repeat_that_repeat_
-Can you repeat that	_please_repeat_that_repeat_
 Where can I find an ATM?	ATMs for B E S, FinnBank and Mordora are located behind the fountain on the left on ground floor.
 Is there an ATM around here?	ATMs for B E S, FinnBank and Mordora are located behind the fountain on the left on ground floor.
 I lost my wallet, can you help me?	The security office is on the first floor, they can help you find it.

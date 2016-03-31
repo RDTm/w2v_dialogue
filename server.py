@@ -6,10 +6,10 @@ app = Flask(__name__)
 @app.route('/', methods=['POST', 'GET'])
 def index():
     if request.method == 'POST':
-	query = request.form['name']
+	query = request.form['Say something to the AI:']
 	resp = DM.respond(query)
         session['list'].append(query)
-	session['list'].append(resp)
+	session['list'].append("-> "+resp)
         return render_template('form.html', list=session['list'])
     else:
         session['list'] = []
