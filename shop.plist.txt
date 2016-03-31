@@ -1,0 +1,159 @@
+Hey	Hi, I'm Brad, the virtual shop assistant. What can I help you with?
+Hi.	Hi, I'm Brad, the virtual shop assistant. What can I help you with?
+Hello	Hi, I'm Brad, the virtual shop assistant. What can I help you with?
+Yo.	Hi, I'm Brad, the virtual shop assistant. What can I help you with?
+What is your name?	My name is Brad. How can I help you today?
+How is it going?	I'm a virtual human, as long as the CPU is buzzing, I'm always doing great.  And how are you?
+How are you doing?	I'm a virtual human, as long as the CPU is buzzing, I'm always doing great.  And how are you?
+How are you?	I'm a virtual human, as long as the CPU is buzzing, I'm always doing great.  And how are you?
+How's your day going?	I'm a virtual human, as long as the CPU is buzzing, I'm always doing great.  And how are you?
+How are you doing today?	I'm a virtual human, as long as the CPU is buzzing, I'm always doing great.  And how are you?
+I've had a terrible day	Sorry to hear that. Maybe there is something I can help you with?
+I'm not doing good	Sorry to hear that. Maybe there is something I can help you with?
+I've had a shitty day	Sorry to hear that. Maybe there is something I can help you with?
+I'm doing so so	Sorry to hear that. Maybe there is something I can help you with?
+I'm not doing great	Sorry to hear that. Maybe there is something I can help you with?
+I'm well.	That's great to hear. So, how can I be of assistance?
+I'm doing great.	That's great to hear. So, how can I be of assistance?
+I'm having a great day	That's great to hear. So, how can I be of assistance?
+I'm doing pretty well.	That's great to hear. So, how can I be of assistance?
+I'm good.	That's great to hear. So, how can I be of assistance?
+Thanks.	You're very welcome!
+Thanks a lot	You're very welcome!
+Thank you.	You're very welcome!
+Thanks.	You're welcome!
+Thanks a lot	You're welcome!
+Thank you.	You're welcome!
+Good bye.	Good bye.
+Goodbye.	Good bye.
+Bye.	Good bye.
+Bye bye.	Good bye.
+See you later.	Good bye.
+Good bye.	Bye Bye now.
+Goodbye.	Bye Bye now.
+Bye.	Bye Bye now.
+Bye bye.	Bye Bye now.
+See you later.	Bye Bye now.
+Have a good day.	Have a good day.
+Hey	Hi there. Can I help you with anything?
+Howdy	Hi there. Can I help you with anything?
+Hi.	Hi there. Can I help you with anything?
+Hello	Hi there. Can I help you with anything?
+Yo.	Hi there. Can I help you with anything?
+Hey there, Brad.	Hi there. Can I help you with anything?
+Where can I find something to eat?	There is a supermarket on the ground floor. I could also suggest a restaurant.
+Hey	Hello
+Howdy	Hello
+Hi.	Hello
+Hello	Hello
+Yo.	Hello
+Hey there, Brad.	Hello
+Hi, how are you?	Hi. I'm having a good day. And you?
+Can you say that again?	_please_repeat_that_repeat_
+Sorry, what was that?	_please_repeat_that_repeat_
+Pardon me?	_please_repeat_that_repeat_
+What was that?	_please_repeat_that_repeat_
+What did you say?	_please_repeat_that_repeat_
+Can you repeat what you just said?	_please_repeat_that_repeat_
+I didn't understand what you just said.	_please_repeat_that_repeat_
+Can you repeat that	_please_repeat_that_repeat_
+Where can I find an ATM?	ATMs for B E S, FinnBank and Mordora are located behind the fountain on the left on ground floor.
+Is there an ATM around here?	ATMs for B E S, FinnBank and Mordora are located behind the fountain on the left on ground floor.
+I lost my wallet, can you help me?	The security office is on the first floor, they can help you find it.
+Where can I find perfumes?	There is a parfumerie at the end of the hallway on the third floor
+I'm looking for a perfume?	There is a parfumerie at the end of the hallway on the third floor
+I would like to buy a perfume?	There is a parfumerie at the end of the hallway on the third floor
+Till what time are the shops open?	On weekdays most of the shops are open until 8 P M, but the supermarket remains open till ten P M.
+At what time do the shops close?	On weekdays most of the shops are open until 8 P M, but the supermarket remains open till ten P M.
+I'm looking for a place to eat	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
+Which restaurant would you recommend?	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
+Where can I find something to eat?	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
+I'm hungry	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
+What restaurants are in this shopping center?	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
+Where can I buy sports equipment?	There are two big sports shops in the center - FitShop is located on the ground floor next to the exit to Main Street. StrongStore is on the fourth floor to the left.
+Where can I buy a bike?	There are two big sports shops in the center - FitShop is located on the ground floor next to the exit to Main Street. StrongStore is on the fourth floor to the left.
+Where can I buy a bicycle?	There are two big sports shops in the center - FitShop is located on the ground floor next to the exit to Main Street. StrongStore is on the fourth floor to the left.
+Where can I buy a football	There are two big sports shops in the center - FitShop is located on the ground floor next to the exit to Main Street. StrongStore is on the fourth floor to the left.
+Where can I buy jeans?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+I need a new pair of jeans?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+I'm looking for jeans?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+Where can I buy a T-shirt?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+I'm looking for a new T-shirt	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+Where can I buy socks?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+where can I buy a jacket?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+What is the cheapest shop to buy clothes?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+I want to buy clothes	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+I need to buy clothes	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+Where can I buy plates, knives, forks, spoons cups	HomeWorld is located on the last floor next to the supermarket
+I need to buy plates, knives, forks, spoons, cups	HomeWorld is located on the last floor next to the supermarket
+Where can I buy jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+I need a new pair of jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+I'm looking for jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+Where can I buy a T-shirt?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+I'm looking for a new T-shirt	M and H has a wide choice of cheap clothes. They are located on the second floor.
+Where can I buy socks?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+where can I buy a jacket?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+What is the cheapest shop to buy clothes?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+I want to buy clothes	M and H has a wide choice of cheap clothes. They are located on the second floor.
+I need to buy clothes	M and H has a wide choice of cheap clothes. They are located on the second floor.
+Where is the closest bus station?	For destinations towards the center of town, the station is located under the shopping center at floor minus 2. For destinations towards Another Town, the station is located at the main entrance.
+Where could I buy flowers?	There is no flower shop in this shopping center. Nevertheless, there is a flower shop right across the street from the main entrance
+I need something for my wife	There is no flower shop in this shopping center. Nevertheless, there is a flower shop right across the street from the main entrance
+I lost my child, can you help me?	The security office is on the first floor, they can make an announcement for you in the loudspeakers to help find your child.
+Where is the nearest shoe shop?	There are three footwear shops in here. The nearest is located right to your left, but it sells only womens footwear. Are you interested in childrens or mens footwear instead?
+Where can I buy shoes?	There are three footwear shops in here. The nearest is located right to your left, but it sells only womens footwear. Are you interested in childrens or mens footwear instead?
+I'm looking for shoes	There are three footwear shops in here. The nearest is located right to your left, but it sells only womens footwear. Are you interested in childrens or mens footwear instead?
+I'm looking for shoes for women	There are three footwear shops in here. The nearest is located right to your left and it sells only womens footwear.
+Yes, I'm looking for men's shoes	The closest shop for mens footwear is on the ground floor next to the main entrance. There is also a shop on the third floor.
+Where can I find men's shoes and footwear?	The closest shop for mens footwear is on the ground floor next to the main entrance. There is also a shop on the third floor.
+Yes, I'm looking for children's shoes.	Childrens clothing and footwear is sold in the KidsKids on the first floor on the right. There is also a shoe shop for all genders and age on the third floor
+Where can I find children shoes and footwear?	Childrens clothing and footwear is sold in the KidsKids on the first floor on the right. There is also a shoe shop for all genders and age on the third floor
+What is the best shop to buy gifts?	Do you need a gift for a man, a woman or a child?
+Where can I buys gifts?	Do you need a gift for a man, a woman or a child?
+I need a gift	Do you need a gift for a man, a woman or a child?
+I'm looking for a gift	Do you need a gift for a man, a woman or a child?
+I need a gift for a man	Electronics and games can be found in the ElectroShop on your left. There are books for every taste in our BookStore on the fourth floor. You might also consider sports equipment from one of the two shops in this center.
+I'm looking for a vacuum cleaner	Electronics and games can be found in the ElectroShop on your left.
+I'm looking for a phone	Electronics and games can be found in the ElectroShop on your left.
+I need a new phone	Electronics and games can be found in the ElectroShop on your left.
+Where can I buy a phone	Electronics and games can be found in the ElectroShop on your left.
+Where can I buy a vacuum cleaner	Electronics and games can be found in the ElectroShop on your left.
+I need a new TV	Electronics and games can be found in the ElectroShop on your left.
+I need a gift for a woman	Perfumes and body care can be found in the BodyStuff on the ground floor. You can find jewelry in Glitter and Shine on the first floor. There are books for every taste in our BookStore on the fourth floor.
+I need a gift for my wife	Perfumes and body care can be found in the BodyStuff on the ground floor. You can find jewelry in Glitter and Shine on the first floor. There are books for every taste in our BookStore on the fourth floor.
+I need something for my wife	Perfumes and body care can be found in the BodyStuff on the ground floor. You can find jewelry in Glitter and Shine on the first floor. There are books for every taste in our BookStore on the fourth floor.
+I'm looking for a gift for my wife	Perfumes and body care can be found in the BodyStuff on the ground floor. You can find jewelry in Glitter and Shine on the first floor. There are books for every taste in our BookStore on the fourth floor.
+I need a gift for a child	There are toys and games for any age in the Toy World on the third floor. Interesting and educative books from our BookStore on the fourth floor are always a good choice.
+Where is the toilet?	The toilets are located on the second floor at the end of the hallway.
+Where is the loo?	The toilets are located on the second floor at the end of the hallway.
+Where is the ladies' room?	The toilets are located on the second floor at the end of the hallway.
+Where is the men's room?	The toilets are located on the second floor at the end of the hallway.
+Where is the toilet?	There are toilets at the end of the hallway on each floor
+Where is the loo?	There are toilets at the end of the hallway on each floor
+Where is the ladies' room?	There are toilets at the end of the hallway on each floor
+Where is the men's room?	There are toilets at the end of the hallway on each floor
+Where can I buy some candles?	HomeWorld is located on the last floor next to the supermarket
+Where can I buy headphones?	Electronics and games can be found in the ElectroShop on your left.
+Where can I buy cinema tickets?	There is a cinema on the 4th floor. It has all the newest movies.
+Where can I buy a cup of coffee?	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
+Where can I buy computer games?	Electronics and games can be found in the ElectroShop on your left.
+Where can I buy some food?	There is a supermarket on the ground floor. I could also suggest a restaurant.
+Where can I buy some coffee?	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
+Where can I buy a pair of shoes?	There are three footwear shops in here. The nearest is located right to your left, but it sells only womens footwear. Are you interested in childrens or mens footwear instead?
+Where can I buy gloves?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+Where can I buy gloves?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+Where can I buy a pair of gloves?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+Where can I buy a pair of gloves?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+Where can I buy socks?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+Where can I buy socks?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+Where can I buy some socks?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+Where can I buy some socks?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+Where can I buy a pair of socks?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
+Where can I buy a pair of socks?	M and H has a wide choice of cheap clothes. They are located on the second floor.
+Where can I buy a pair of glasses?	The Optician is located next to MacDonals on the ground floor
+Where can I buy a pair of sunglasses?	The Optician is located next to MacDonals on the ground floor. Also many clothes shops have a selection of sunglasses.
+Where can I buy a pen?	You can find what you need in AllForOffice on the first floor near the Security Office
+Where can I buy some pens?	You can find what you need in AllForOffice on the first floor near the Security Office
+Where can I buy some paper?	You can find what you need in AllForOffice on the first floor near the Security Office
+Where can I buy office supplies?	You can find what you need in AllForOffice on the first floor near the Security Office
+Where can I buy a backpack?	There are two big sports shops in the center - FitShop is located on the ground floor next to the exit to Main Street. StrongStore is on the fourth floor to the left.
