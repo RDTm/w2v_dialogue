@@ -27,7 +27,7 @@ class dialogue:
             			new_ones = map(lambda x: pair[0].replace(beg,x), same_stuff)
             			for n in new_ones:
                 			#conditions
-                			alr = n not in raw_client_utterances #not there already
+                			alr = n not in raw_client_utterances and n not in to_add #not there already
                 			atm = not ("ATM" in n and "buy" in n)
                 			eat = not ("eat" in n and "buy" in n)
                 			if all([alr, atm,eat]):

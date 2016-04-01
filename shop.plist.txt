@@ -89,8 +89,7 @@ where can I buy a jacket?	All of our clothing shops have good quality and good p
 What is the cheapest shop to buy clothes?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
 I want to buy clothes	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
 I need to buy clothes	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
-Where can I buy plates, knives, forks, spoons cups	HomeWorld is located on the last floor next to the supermarket
-I need to buy plates, knives, forks, spoons, cups	HomeWorld is located on the last floor next to the supermarket
+Where can I buy plates, knives, forks, spoons cups, bowls,sheets. 	HomeWorld is located on the last floor next to the supermarket
 Where can I buy jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
 I need a new pair of jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
 I'm looking for jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
@@ -167,3 +166,8 @@ When is the next sale?	There are sales in many shops right now. What products ar
 When are the next sales?	There are sales in many shops right now. What products are you interested in?
 Where is the supermarket?	There is a supermarket on the ground floor. If you are hungry I could also suggest a restaurant.
 Do you have a supermarket?	There is a supermarket on the ground floor. If you are hungry I could also suggest a restaurant.
+I want to buy cheese.	There is a supermarket on the ground floor.
+I want to buy wine.	There is a supermarket on the ground floor.
+I want to buy cake.	There is a supermarket on the ground floor.
+I want to buy a table.	HomeWorld is located on the last floor next to the supermarket
+I want to buy a clock.	HomeWorld is located on the last floor next to the supermarket
