@@ -89,7 +89,7 @@ where can I buy a jacket?	All of our clothing shops have good quality and good p
 What is the cheapest shop to buy clothes?	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
 I want to buy clothes	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
 I need to buy clothes	All of our clothing shops have good quality and good prices. There are currently discounts in M and H, in Hippala and in Lara.
-Where can I buy plates, knives, forks, spoons cups, bowls,sheets. 	HomeWorld is located on the last floor next to the supermarket
+Where can I buy plates, knives, forks, spoons cups, bowls, sheets. 	HomeWorld is located on the last floor next to the supermarket
 Where can I buy jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
 I need a new pair of jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
 I'm looking for jeans?	M and H has a wide choice of cheap clothes. They are located on the second floor.
@@ -171,3 +171,7 @@ I want to buy wine.	There is a supermarket on the ground floor.
 I want to buy cake.	There is a supermarket on the ground floor.
 I want to buy a table.	HomeWorld is located on the last floor next to the supermarket
 I want to buy a clock.	HomeWorld is located on the last floor next to the supermarket
+I want to buy jewelry.	You can find jewelry in Glitter and Shine on the first floor
+Where can I find household items?	HomeWorld is located on the last floor next to the supermarket
+I want to buy furniture	HomeWorld is located on the last floor next to the supermarket
+Where can I find electronics?	Electronics and games can be found in the ElectroShop on your left.

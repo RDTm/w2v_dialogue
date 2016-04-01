@@ -155,8 +155,33 @@ class dialogue:
 		            sentence = sentence.replace(word, closest)
 		            print "replaced ", sentence
 		        else:
-		            sentence = sentence.replace(word,"")
-		            print "removed ", sentence
+			    fur= scipy.spatial.distance.cosine(self.model[word], self.model["furniture"])
+			    food = scipy.spatial.distance.cosine(self.model[word], self.model["food"])
+			    electronics = scipy.spatial.distance.cosine(self.model[word], self.model["electronics"])
+			    office = scipy.spatial.distance.cosine(self.model[word], self.model["office"])
+			    sports = scipy.spatial.distance.cosine(self.model[word], self.model["sports"])
+			    perfume = scipy.spatial.distance.cosine(self.model[word], self.model["perfume"])
+			    household = scipy.spatial.distance.cosine(self.model[word], self.model["household"])
+			    clothing = np.min([scipy.spatial.distance.cosine(self.model[word], self.model["clothing"]),scipy.spatial.distance.cosine(self.model[word], self.model["clothing"])])
+			    jewelry = scipy.spatial.distance.cosine(self.model[word], self.model["jewelry"])
+
+			    print "dist to furniture:", scipy.spatial.distance.cosine(self.model[word], self.model["furniture"])
+			    print "dist to food:", scipy.spatial.distance.cosine(self.model[word], self.model["food"])
+			    print "dist to sports:", scipy.spatial.distance.cosine(self.model[word], self.model["sports"])
+			    print "dist to office:", scipy.spatial.distance.cosine(self.model[word], self.model["office"])
+			    print "dist to electronics:", electronics
+			    print "dist to clothing:", clothing
+			    print "dist to jewelry:", jewelry
+			    print "dist to household:", household
+			    print "dist to perfume:", perfume
+			    if np.min([fur,food,electronics,office,sports,clothing,jewelry,household,perfume])<0.85:
+				    topic = ["furniture","food","electronics","office","sports","clothes","perfume","jewelry","household"][np.argmin([fur,food,electronics,office,sports,clothing,perfume,jewelry,household])]
+		        	    sentence = sentence.replace(word,topic)
+				    print "replaced with topic ", topic
+			    else:
+				    sentence = sentence.replace(word,"")
+				    print "BAD WORD most similar:", self.model.most_similar(positive=[word],topn=10)
+			            print "removed ", sentence
 		    except:
 		        print word, " is not understood by word2vec, removing it from the senetence"
 		        sentence = sentence.replace(word,"")
