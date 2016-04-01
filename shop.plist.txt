@@ -1,3 +1,4 @@
+Can I help you?	Can I help you?
 Hey	Hi, I'm Brad, the virtual shop assistant. What can I help you with?
 Hi.	Hi, I'm Brad, the virtual shop assistant. What can I help you with?
 Hello	Hi, I'm Brad, the virtual shop assistant. What can I help you with?
@@ -42,6 +43,9 @@ Hello	Hi there. Can I help you with anything?
 Yo.	Hi there. Can I help you with anything?
 Hey there, Brad.	Hi there. Can I help you with anything?
 Where can I find something to eat?	There is a supermarket on the ground floor. I could also suggest a restaurant.
+I want to buy an ice-cream	There is a supermarket on the ground floor. I could also suggest a restaurant.
+I want to buy sweets	There is a supermarket on the ground floor. I could also suggest a restaurant.
+I want to buy candy	There is a supermarket on the ground floor. I could also suggest a restaurant.
 Hey	Hello
 Howdy	Hello
 Hi.	Hello
@@ -52,11 +56,20 @@ Hi, how are you?	Hi. I'm having a good day. And you?
 Where can I find an ATM?	ATMs for B E S, FinnBank and Mordora are located behind the fountain on the left on ground floor.
 Is there an ATM around here?	ATMs for B E S, FinnBank and Mordora are located behind the fountain on the left on ground floor.
 I lost my wallet, can you help me?	The security office is on the first floor, they can help you find it.
+I lost my bag, can you help me?	The security office is on the first floor, they can help you find it.
+I lost my child, can you help me?	The security office is on the first floor, they can help you find him.
+I want to talk to the manager.	The security office is on the first floor, they will let you talk to the manager.
 Where can I find perfumes?	There is a parfumerie at the end of the hallway on the third floor
 I'm looking for a perfume?	There is a parfumerie at the end of the hallway on the third floor
 I would like to buy a perfume?	There is a parfumerie at the end of the hallway on the third floor
-Till what time are the shops open?	On weekdays most of the shops are open until 8 P M, but the supermarket remains open till ten P M.
-At what time do the shops close?	On weekdays most of the shops are open until 8 P M, but the supermarket remains open till ten P M.
+Till what time are the shops open?	On weekdays most of the shops are open from 9AM till 8 P M, but the supermarket remains open till ten P M.
+At what time do the shops close?	On weekdays most of the shops are open from 9AM till 8 P M, but the supermarket remains open till ten P M.
+At what time do the shops open?	On weekdays most of the shops are open from 9AM till 8 P M, but the supermarket remains open till ten P M.
+When will the shops close?	On weekdays most of the shops are open from 9AM till 8 P M, but the supermarket remains open till ten P M.
+Till what time are the stores open?	On weekdays most of the shops are open from 9AM till 8 P M, but the supermarket remains open till ten P M.
+At what time do the stores close?	On weekdays most of the shops are open from 9AM till 8 P M, but the supermarket remains open till ten P M.
+At what time does the store open?	On weekdays most of the shops are open from 9AM till 8 P M, but the supermarket remains open till ten P M.
+When will the store close?	On weekdays most of the shops are open from 9AM till 8 P M, but the supermarket remains open till ten P M.
 I'm looking for a place to eat	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
 Which restaurant would you recommend?	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
 Where can I find something to eat?	We have many high quality restaurants. Food Place on the rooftop is the biggest, for Asian Food there is Red Dragon on the third floor. MacDonalds is located on the ground floor
@@ -149,3 +162,8 @@ Where can I buy some pens?	You can find what you need in AllForOffice on the fir
 Where can I buy some paper?	You can find what you need in AllForOffice on the first floor near the Security Office
 Where can I buy office supplies?	You can find what you need in AllForOffice on the first floor near the Security Office
 Where can I buy a backpack?	There are two big sports shops in the center - FitShop is located on the ground floor next to the exit to Main Street. StrongStore is on the fourth floor to the left.
+When will you have the next sale?	There are sales in many shops right now. What products are you interested in?
+When is the next sale?	There are sales in many shops right now. What products are you interested in?
+When are the next sales?	There are sales in many shops right now. What products are you interested in?
+Where is the supermarket?	There is a supermarket on the ground floor. If you are hungry I could also suggest a restaurant.
+Do you have a supermarket?	There is a supermarket on the ground floor. If you are hungry I could also suggest a restaurant.

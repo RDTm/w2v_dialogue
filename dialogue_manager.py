@@ -19,8 +19,8 @@ class dialogue:
 		raw_AI_utterances = raw_utterance_pairs[:,1]
 
 		to_add = []
-		same_stuff = ["I'm looking for a", "I want to buy a", "I need a", "Where can I find a","Where could I get a",
-             	 	"Where can I buy a", "Where could I buy a", "Do you have a", "Can I get a", "I'd like to have a", "I'd like to get a"]
+		same_stuff = ["I'm looking for", "I want to buy", "I need", "Where can I find","Where could I get",
+             	 	"Where can I buy", "Where could I buy", "Do you have", "Can I get", "I'd like to have", "I'd like to get"]
 		for pair in raw_utterance_pairs:
 		    if any(expr in pair[0] for expr in same_stuff):
         		for beg in same_stuff:
