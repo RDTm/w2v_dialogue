@@ -19,13 +19,16 @@ class dialogue:
 		to_add = []
 		same_stuff = ["I'm looking for", "I want to buy", "I need", "Where can I find","Where could I get",
              	 	"Where can I buy", "Where could I buy", "Do you have", "Can I get", "I'd like to have", "I'd like to get"]
+		functionally_same = [["'d","would"], ["n't", " not"], ["can", "could"] ["wife", "girlfriend"]]
+
 		for pair in raw_utterance_pairs:
+		    #replace the first list with all of the synonymous ways of posing the question
 		    if any(expr in pair[0] for expr in same_stuff):
         		for beg in same_stuff:
             			new_ones = map(lambda x: pair[0].replace(beg,x), same_stuff)
             			for n in new_ones:
                 			#conditions
-                			alr = n not in raw_client_utterances and n not in to_add #not in the list already, would mess up the matrix
+                			alr = n not in raw_client_utterances and n not in to_add # not in the list already, would mess up the matrix
                 			atm = not ("ATM" in n and "buy" in n) # exception, cannot generate phrases
                 			eat = not ("eat" in n and "buy" in n) # exception, cannot generate phrases
                 			if all([alr, atm,eat]):
