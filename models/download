@@ -1,3 +1,5 @@
 Please download the word2vec model from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 
 If this does not work, check word2vec website at https://code.google.com/archive/p/word2vec/
+
+As a result these should be a file called "GoogleNews-vectors-negative300.bin.gz" in this fodler
