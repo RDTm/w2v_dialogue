@@ -187,13 +187,11 @@ class dialogue:
 		        sentence = sentence.replace(word,"")
 		        print "replaced ", sentence
 		        pass
-		else:
+		else: #the ward was in dictionary
 		    pass
-		    #print "the word is in dic", word
 	    print "cleaned up sentence:", sentence
 	    #presume all unkown words removed or replaced
 	    words = sentence.split()
-	    #print words
 	    small_matrix = []
 	    for w in words:
 		w = ''.join(ch for ch in w if ch not in self.exclude)#exlude commas, dots, questionmarks
@@ -201,8 +199,6 @@ class dialogue:
 		    w = w.lower()#causes problems for the word I
 		word_index = self.dictionary[w]
 		small_matrix.append(self.occurence_matrix[:,word_index])
-	    print np.shape(small_matrix)
-	    #print np.sum(small_matrix,axis=0)
 	    best = np.argmax(np.sum(small_matrix,axis=0))
 	    return self.reversed_utterance_map[best]        
             
