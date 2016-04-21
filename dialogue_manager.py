@@ -19,7 +19,7 @@ class dialogue:
 		to_add = []
 		same_stuff = ["I'm looking for", "I want to buy", "I need", "Where can I find","Where could I get",
              	 	"Where can I buy", "Where could I buy", "Do you have", "Can I get", "I'd like to have", "I'd like to get"]
-		functionally_same = [["'d","would"], ["n't", " not"], ["can", "could"] ["wife", "girlfriend"]]
+		functionally_same = [["'d","would"], ["n't", " not"], ["can", "could"],["wife", "girlfriend"]]
 
 		for pair in raw_utterance_pairs:
 		    #replace the first list with all of the synonymous ways of posing the question
